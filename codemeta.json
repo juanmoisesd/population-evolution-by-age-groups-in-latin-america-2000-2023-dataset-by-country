@@ -1,22 +1,47 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Population Evolution by Age Groups in Latin America (2000-2023): Dataset by Country and Age Cohort",
-  "identifier": "10.5281/zenodo.18881028",
-  "url": "https://doi.org/10.5281/zenodo.18881028",
+  "@type": "SoftwareSourceCode",
+  "name": "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a",
+  "description": "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a",
+  "url": "https://github.com/juanmoisesd/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country",
+  "codeRepository": "https://github.com/juanmoisesd/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "Latin America",
-    "population",
+    "cc0",
+    "cepal",
+    "dataset",
     "demographics",
-    "CEPAL"
-  ]
+    "latin-america",
+    "open-data",
+    "population",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
