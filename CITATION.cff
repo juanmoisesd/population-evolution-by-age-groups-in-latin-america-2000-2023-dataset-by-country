@@ -1,19 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Population Evolution by Age Groups in Latin America (2000-2023): Dataset by Country and Age Cohort"
+title: "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18881028"
-url: "https://doi.org/10.5281/zenodo.18881028"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country"
-license: CC0-1.0
-date-released: "2026-03-05"
+url: "https://juanmoisesd.github.io/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country/"
+abstract: "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a"
 keywords:
-  - "Latin America"
-  - "population"
-  - "demographics"
-  - "CEPAL"
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
