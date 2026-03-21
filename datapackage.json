@@ -1,0 +1,38 @@
+{
+  "name": "population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country",
+  "title": "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a",
+  "description": "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "cepal",
+    "dataset",
+    "demographics",
+    "latin-america",
+    "open-data",
+    "population",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country"
+    }
+  ],
+  "created": "2026-03-20"
+}
