@@ -1,0 +1,11 @@
+cc0, cepal, dataset, demographics, latin-america, open-data, population, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
