@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a"
+abstract: "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country"
 url: "https://juanmoisesd.github.io/population-evolution-by-age-groups-in-latin-america-2000-2023-dataset-by-country/"
-abstract: "This dataset contains data on the population evolution by age groups in 11 Latin American countries for the years 2000, 2010, 2020 and 2023. Countries included: Mexico, Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Ecuador, Bolivia, Paraguay a"
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
